@@ -8,13 +8,12 @@ This github organization was created to serve as a single portal to schemas, too
 
 * [Zachary Trautt](https://github.com/ztrautt)
 
-
-### Rules and code of conduct
-text 
-
 ### Projects
 
 You are welcome to host your repository within the organization or we can link to it below. Current projects include:
 
 * [Development of modular data models for materials science (include)](https://github.com/MDCS-community/modular-data-models-include) - Modular data models for materials science, where reusable types are assembled via include statements. Once supported by the MDCS, modular data models will be transitioned to import statements with version controlled name space declarations.
+
+### Rules and code of conduct
+text 
 
