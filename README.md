@@ -1,6 +1,13 @@
 ### Purpose
 
-This github organization was created to serve as a single portal to schemas, tools, and other resources in support the [Materials Data Curation System](https://mgi.nist.gov/materials-data-curation-system).
+This github organization was created to serve as a single portal to schemas, tools, and other resources in support the [Materials Data Curation System](https://mgi.nist.gov/materials-data-curation-system). If you are a user of the Materials Data Curation System, you are encouraged to participate! If you are interested in being a contributor or an editor of the community, please contact one of the current editors:
+
+* [Glenn Tarcea](https://github.com/gtarcea)
+
+* [Laura Bartolo](https://github.com/lbartolo)
+
+* [Zachary Trautt](https://github.com/ztrautt)
+
 
 ### Rules and code of conduct
 text 
