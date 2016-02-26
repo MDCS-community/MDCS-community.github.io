@@ -6,11 +6,15 @@ This github organization was created to serve as a single portal for schemas, to
 * [Glenn Tarcea](https://github.com/gtarcea)
 * [Zachary Trautt](https://github.com/ztrautt)
 
-### Projects
+### Repositories and Projects
 
-You are welcome to host your repository within the organization or we can link to it below. Current projects include:
+You are welcome to host your repository within the organization or we can link to it below. Current repositories include:
 
 * [Development of modular data models for materials science (include)](https://github.com/MDCS-community/modular-data-models-include) - Modular data models for materials science, where reusable types are assembled via include statements. Once supported by the MDCS, modular data models will be transitioned to import statements with version controlled name space declarations.
+
+* [MDCS API Tools](https://github.com/MDCS-community/MDCS-api-tools) - Command line tool and python package for using the Materials Data Curation System Application Programming Interface. 
+
+* [Tutorials](https://github.com/MDCS-community/tutorials) - Materials for educational outreach and learning. 
 
 ### Rules and code of conduct
 
